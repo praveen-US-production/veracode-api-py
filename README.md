@@ -6,7 +6,6 @@ Not an official Veracode product. Heavily based on original work by [CTCampbell]
 
 ## Setup
 Install from pypi:
-
     pip install veracode-api-py
 
 ### Authenticating from a developer machine
